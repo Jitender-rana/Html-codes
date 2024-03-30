@@ -1,0 +1,16 @@
+{
+  "name": "server_using_express",
+  "version": "1.0.0",
+  "description": "First time creating server using express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jitender Rana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
